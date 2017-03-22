@@ -1,11 +1,14 @@
 
 welcome_message = """
 __***Welcome to Out of the Blue Studios’ main server***__
+Please follow the instructions below and feel free to learn more about the studio and our projects through the use of the commands
 
 `help` - for a list of commands
+# 'about' - for a list of about commands e.g. 'about studio' 'about projects'
 `about studio` 
 `about projects` 
 `toc` - for the terms and conditions
+# 'faq' - for frequently asked questions
 
 """
 instruction= """
